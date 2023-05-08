@@ -1,3 +1,4 @@
+<!-- README file for my project "Techium website" -->
 # 0x02. Advanced CSS
 
 ## Requirements
@@ -7,4 +8,4 @@
 - All your files should end with a new line
 - All your files should start by a comment describing the task
 - A README.md file, at the root of the folder of the project, is mandatory
-- Your code should be W3C compliant and validate with W3C-Validator
+- Your code should be W3C compliant and validate with W3C-Validator.
