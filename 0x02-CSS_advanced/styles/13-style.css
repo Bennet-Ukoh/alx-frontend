@@ -16,21 +16,21 @@ body {
     font-weight: var(--font-weight-bold);
   }
 
-  a[href] {
+  a:not(:empty) {
     color: var(--color-black);
     text-decoration: none;
   }
 
-  a[href]:visited {
+  a:not(:empty):visited {
     font-style: italic;
   }
 
-  a[href]:hover {
+  a:not(:empty):hover {
     text-decoration: underline;
   }
 
-  a[href]:active {
-    background-color: var(--color-light-grey);
+  a:not(:empty):active {
+    background-color: var(--color-dark-grey);
   }
 
   .visually-hidden {
