@@ -100,11 +100,11 @@ body {
   }
   .nav .nav-link {
     display: block;
-    padding: calc(var(--root-element) * 0.5) var(--root-element);
+    padding: var(--root-element)  var(--root-element)/2;
   }
 
   .nav .nav-link:hover {
-    background-color: var(--nav-item-link-hover);
+    color: var(--nav-item-link-hover);
   }
   
   :root {
