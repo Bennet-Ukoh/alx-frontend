@@ -12,7 +12,7 @@ We will cover topics like:
 ## How to run the project files
 1. Clone this repository on your local machine using this command:
 
-``` git clone https://github.com/username/0x03-responsive_design.git ```
+``` git clone https://github.com/Bennet-Ukoh/alx-frontend.git ```
 
 2. Navigate to the project directory
 
